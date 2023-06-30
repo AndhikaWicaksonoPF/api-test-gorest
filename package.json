@@ -1,0 +1,9 @@
+{
+  "name": "api-test-gorest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.16.0"
+  }
+}
